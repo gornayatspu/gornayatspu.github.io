@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+			<title>Зимний спорт</title>
+			<link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <header>
+        <img 19813-zanyatie_sportom-lyzhi-sportsmen-ekstremalnyj_vid_sporta-zimnij_sport-1920x1200.jpg class="center-img" width="480" height="360">
+        <h1>Лыжи</h1>
+        </header>
+            <div>
+                <nav>
+                    <ul>
+                          <li><a href="index.html">Главная</a></li>
+                          <li><a href="week0.html">Сноуборд</a></li>
+                          <li><a href="stranica1.html">Коньки</a></li>
+                          <li><a href="stranica2.html">Тюбинг</a></li>
+                           <li><a href="stranica3.html">Лыжи</a></li>
+                     </ul>
+                </nav>
+
+               <main>
+                    <h1>Рынок потребления</h1>
+               </main>
+            </div>
+    </body>
+    </html>
